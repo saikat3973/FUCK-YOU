@@ -1,17 +1,10 @@
-________𝑵𝑨𝑴𝑬__𝑺𝑨𝑰𝑲𝑨𝑻_____
-________𝑭𝑹𝑶𝑴__𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑯_
-________𝑵𝑼𝑴𝑩𝑬𝑹 𝟎𝟏𝟗𝟏𝟓****𝟒𝟖_
-________𝑾𝑨_𝟎𝟏𝟗𝟏𝟓****𝟒𝟖_
-________𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵__
-________𝑮𝑯𝑯_𝑪𝒀𝑩𝑬𝑹_𝑯𝑨𝑪𝑲𝑰𝑵𝑮_
-________________________________
 ___🦋(𝑺𝑨𝑰𝑲𝑨𝑻)🦋___
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
 (__🐝𝑺𝑨𝑰𝑲𝑨𝑻🐝__)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐒𝐀𝐈𝐊𝐀𝐓✏️__)
-<h1 align="center">Hi 👋, I'm 𝐒𝐀𝐈𝐊𝐀𝐓</h1>
+<h1 align="center">Hi 👋, I'm 𝐒𝐀𝐈 𝐊𝐀𝐓</h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝑮𝑯𝑯 𝐒𝐀𝐈𝐊𝐀𝐓 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
