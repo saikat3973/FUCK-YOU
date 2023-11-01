@@ -4,7 +4,7 @@ ___🦋(𝑺𝑨𝑰𝑲𝑨𝑻)🦋___
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐒𝐀𝐈𝐊𝐀𝐓✏️__)
-<h1 align="center">Hi 👋, I'm 𝐒𝐀𝐈 𝐊𝐀𝐓</h1>
+<h1 align="center">Hi 👋, I'm 𝐆𝐇𝐇 </h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝑮𝑯𝑯 𝐒𝐀𝐈𝐊𝐀𝐓 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
